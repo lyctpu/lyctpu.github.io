@@ -385,5 +385,7 @@
 --------
 
 [=](https://docs.google.com/spreadsheets/d/11P24GWyXc2Yg8IJyaDAjmc9z3Sf_TPSBK9SAu4sm6c8/edit#gid=957019618)
+[2023](https://user-images.githubusercontent.com/114549805/209599025-cf1da089-e09c-4a15-bd23-4f3ddaa407ae.png)
+
 
 @lyctpu 2022г.
