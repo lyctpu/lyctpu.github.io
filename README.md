@@ -140,7 +140,11 @@
 
 [Банк заданий](http://ege.fipi.ru/os11/xmodules/qprint/index.php?proj_guid=B9ACA5BBB2E19E434CD6BEC25284C67F&theme_guid=9009f55c9341e311beed001fc68344c9&md=qprint&groupno=0)
 
+[реп ЕГЭ](https://github.com/lyctpu/ege)
+
 [Досрочное ЕГЭ 2022](https://100ballnik.com/%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82-%D1%81-%D0%B4%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B5%D0%B3%D1%8D-2022-%D0%BF%D0%BE-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82/?ysclid=l9i2tuwgl4196137770)
+
+[Досрок 2022 Реш](https://github.com/lyctpu/ege/blob/main/2022real/1v.py)
 
 [ЕГЭ Демо2022 реш](https://deepnote.com/publish/90a94397-bea5-4693-ad44-558a0fd0a5b2)
 
@@ -150,17 +154,17 @@
 
 [ЕГЭ Демо2023 ким](https://github.com/lyctpu/ege/blob/main/2023demo/%D0%98%D0%9D%D0%A4-11%20%D0%95%D0%93%D0%AD%202023_%D0%94%D0%95%D0%9C%D0%9E.pdf)
 
+
+
 [Сайт Полякова](https://kpolyakov.spb.ru/school/ege/generate.htm)
 
 [Тренажер КЕГЭ](https://kompege.ru/)
 
-[Тренажер КЕГЭ 2](https://4ege.ru/trening-informatika/63131-trenazher-kompjuternogo-ege-po-informatike.html)
+[Тренажер КЕГЭ 2](https://4ege.ru/trening-informatika/)
 
 [СДАТЬ ЕГЭ](https://foxford.ru/catalog/trainings/informatika/ege)
 
 [РЕШУ ЕГЭ](https://inf-ege.sdamgia.ru/)
-
-[ЕГЭ в Excel](https://docs.google.com/spreadsheets/d/1uFQsXgk8wyZK4Q3axKS3t7WFXNkuiTOIcmE72mMsprw/edit?usp=sharing)
 
 ![Урок на youtube](youtube16.png) [Канал Ивана Викторовича](https://www.youtube.com/c/IoanPlugar_inf)
 
