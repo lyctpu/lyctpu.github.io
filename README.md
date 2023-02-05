@@ -97,6 +97,8 @@
 
 [Сетевой Буллинг](https://disk.yandex.ru/d/tdx6okUnecx3Og)
 
+[python sort](https://www.delftstack.com/ru/howto/python/sort-list-of-lists-in-python/#%d0%b8%d1%81%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d1%83%d0%b9%d1%82%d0%b5-%d1%84%d1%83%d0%bd%d0%ba%d1%86%d0%b8%d1%8e-itemgetter-%d0%b8%d0%b7-%d0%bc%d0%be%d0%b4%d1%83%d0%bb%d1%8f-%d0%be%d0%bf%d0%b5%d1%80%d0%b0%d1%82%d0%be%d1%80%d0%b0-%d0%b2%d0%bc%d0%b5%d1%81%d1%82%d0%b5-%d1%81-%d1%84%d1%83%d0%bd%d0%ba%d1%86%d0%b8%d0%b5%d0%b9-sorted-%d0%b4%d0%bb%d1%8f-%d1%81%d0%be%d1%80%d1%82%d0%b8%d1%80%d0%be%d0%b2%d0%ba%d0%b8-%d1%81%d0%bf%d0%b8%d1%81%d0%ba%d0%b0-%d1%81%d0%bf%d0%b8%d1%81%d0%ba%d0%be%d0%b2-%d0%b2-python)
+
 -------------
 
 ### Работы и задания
