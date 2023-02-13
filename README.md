@@ -55,6 +55,8 @@
 
 ### РЕСУРСЫ
 
+[МОДЕЛИРОВАНИЕ](https://xn----7sbbfb7a7aej.xn--p1ai/informatika_11/informatika_materialy_zanytii_11_17.html)
+
 [MidJourney](https://lifehacker.ru/kak-polzovatsya-midjourney/)
 
 [Запросы MidJourney](https://promptomania.com/midjourney-prompt-builder/)
