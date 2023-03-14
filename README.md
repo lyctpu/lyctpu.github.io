@@ -154,7 +154,7 @@
 
 [ЕГЭ Демо2022 реш](https://deepnote.com/publish/90a94397-bea5-4693-ad44-558a0fd0a5b2)
 
-[ЕГЭ Демо2023 реш](https://deepnote.com/publish/e70e0880-8033-40a8-abb8-4157d3d12909)
+[ЕГЭ Демо2023 реш](https://deepnote.cm/publish/e70e0880-8033-40a8-abb8-4157d3d12909)
 
 [ЕГЭ Демо2022 ким](https://github.com/lyctpu/ege/blob/main/2022demo/%D0%98%D0%9D%D0%A4-11%20%D0%95%D0%93%D0%AD%202022_%D0%94%D0%95%D0%9C%D0%9E.pdf)
 
