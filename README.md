@@ -1,3 +1,5 @@
+<script src="//code.jivo.ru/widget/5iINSzqXy6" async></script>
+
 ![_v_snegu_yapfiles ru](https://user-images.githubusercontent.com/114549805/224544586-8c5cf89a-642d-466f-847b-781d88bdce5e.png)
 
 
