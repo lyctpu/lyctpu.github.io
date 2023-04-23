@@ -1,3 +1,10 @@
+---
+layout: template
+title: ar.md
+permalink: /ar
+filename: ar.md
+---
+
 ## Arduino
 
 Ссылки на материалы
