@@ -28,8 +28,7 @@
 
 # <a href="./python">Py</a> :: <a href="./works">WORKS</a> :: <a href="./faq">F.A.Q.</a> :: <a href="./ar">Hard</a>
 
-## <a href="#Кодинг">Кодинг</a>  |  <a href="#ЕГЭ">ЕГЭ</a>  |  <a href="#Олимпиады">Олимпиады</a>  | <a href="#Notebooks">Notebooks</a>  |   <a href="#Нейросети, ЕГЭ">Нейросети</a>  |   <a href="#БД">БД</a>  |   <a href="#Логика">Логика</a>  |   <a href="#LaTex">LaTex</a>   |   <a href="#Web">Web</a> |   <a href="#Схемы">Схемы</a> 
-
+## <a href="#Кодинг">Кодинг</a>  |  <a href="#ЕГЭ">ЕГЭ</a>  |  <a href="#Олимпиады">Олимпиады</a>  | <a href="#Notebooks">Notebooks</a>  |   <a href="#Нейросети, ЕГЭ">Нейросети</a>  |   <a href="#БД">БД</a>  |   <a href="#Логика">Логика</a>  |   <a href="#LaTex">LaTex</a>   |   <a href="#Web">Web</a> |   <a href="#Схемы">Схемы</a>  |   <a href="#Роботех">Роботех</a>
 
 ## <a href="http://clck.ru/326VLa/" target="_blank">ЖУРНАЛ (google tab)</a>
 
@@ -361,7 +360,9 @@
 
 ----------
 
-### Робототехника
+<p><a name="Роботех"></a></p>
+    
+### Роботех
 
 #### EV3
 
@@ -370,9 +371,6 @@
 [Lego micro python](https://pybricks.com/ev3-micropython/examples/robot_educator_basic.html)
 
 [EV3DEV OS](https://www.ev3dev.org/downloads/)
-
-
-#### Arduino
 
 #### Raspberry
 
@@ -383,7 +381,7 @@
 --------
 
 [=](https://docs.google.com/spreadsheets/d/11P24GWyXc2Yg8IJyaDAjmc9z3Sf_TPSBK9SAu4sm6c8/edit#gid=957019618)
-[2023](https://user-images.githubusercontent.com/114549805/209599025-cf1da089-e09c-4a15-bd23-4f3ddaa407ae.png)
+[calendar2023](https://user-images.githubusercontent.com/114549805/209599025-cf1da089-e09c-4a15-bd23-4f3ddaa407ae.png)
 
 
-@lyctpu 2022г.
+@lyctpu 2023г.
