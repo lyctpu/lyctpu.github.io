@@ -26,3 +26,7 @@ filename: ar.md
 4. Подключения датчиков
 
 [Подключения](https://xn--18-6kcdusowgbt1a4b.xn--p1ai/%d0%b2%d1%82%d0%be%d1%80%d0%be%d0%b9-%d0%bc%d0%be%d0%b4%d1%83%d0%bb%d1%8c-%d0%b0%d1%80%d0%b4%d1%83%d0%b8%d0%bd%d0%be-%d1%88%d0%b8%d0%bb%d0%b4/)
+
+[Подключения 2](https://radioprog.ru/category/89)
+
+[Энциклопедия Гайвера](https://alexgyver.ru/)
