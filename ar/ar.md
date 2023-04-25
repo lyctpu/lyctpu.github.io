@@ -22,3 +22,7 @@ filename: ar.md
 [Элементы и датчики3](https://supereyes.ru/catalog/Datchiki_arduino/sensors_set_20_breadboard_gpio/)
 
 [База знаний по компонентам и схемам Ампперка](http://wiki.amperka.ru/%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82-arduino)
+
+4. Подключения датчиков
+
+[Подключения](https://xn--18-6kcdusowgbt1a4b.xn--p1ai/%d0%b2%d1%82%d0%be%d1%80%d0%be%d0%b9-%d0%bc%d0%be%d0%b4%d1%83%d0%bb%d1%8c-%d0%b0%d1%80%d0%b4%d1%83%d0%b8%d0%bd%d0%be-%d1%88%d0%b8%d0%bb%d0%b4/)
