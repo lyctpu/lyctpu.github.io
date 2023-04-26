@@ -1,7 +1,6 @@
 <script src="//code.jivo.ru/widget/5iINSzqXy6" async></script>
 
-![_v_snegu_yapfiles ru](https://user-images.githubusercontent.com/114549805/224544586-8c5cf89a-642d-466f-847b-781d88bdce5e.png)
-
+<p><img src="https://user-images.githubusercontent.com/114549805/234474398-5298fb07-a63b-4988-a953-a3309904b11a.jpg" width="1254" height="627" alt="Весна"></p>
 
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" type="text/css" href="https://nst1.gismeteo.ru/assets/flat-ui/legacy/css/informer.min.css">
