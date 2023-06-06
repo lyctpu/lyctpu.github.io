@@ -31,7 +31,9 @@
 
 ## <a href="http://clck.ru/326VLa/" target="_blank">ЖУРНАЛ (google tab)</a>
 
-## [ЕГЭ РЕШЕНИЯ](https://drive.google.com/file/d/1eA9QhlndgetOr00HGOtXRFzQG3WIEe1r/view?usp=drive_link)    
+## [ЕГЭ МЕТОДЫ РЕШЕНИЯ](https://drive.google.com/file/d/1eA9QhlndgetOr00HGOtXRFzQG3WIEe1r/view?usp=drive_link)
+
+## [ЕГЭ РЕШЕБНИК](https://drive.google.com/file/d/1lg98A8qpiN92K3tp3pvtn2pZmW7p7CB2/view?usp=sharing)
 
 ## [Универсальный тест](https://forms.gle/mYJ4X1Acsy4v3j27A)
 
