@@ -1,4 +1,4 @@
-<script src="//code.jivo.ru/widget/5iINSzqXy6" async></script>
+<!--<script src="//code.jivo.ru/widget/5iINSzqXy6" async></script>-->
 
 <p><img src="https://github.com/lyctpu/lyctpu.github.io/assets/114549805/7e32fa14-919e-4383-96d6-85a393adcfa9" width="600" height="300" alt=Golang"></p>
 
