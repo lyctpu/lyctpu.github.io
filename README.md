@@ -1,6 +1,6 @@
 <script src="//code.jivo.ru/widget/5iINSzqXy6" async></script>
 
-<p><img src="https://user-images.githubusercontent.com/114549805/234474398-5298fb07-a63b-4988-a953-a3309904b11a.jpg" width="1000" height="500" alt="Весна"></p>
+<p><img src="https://github.com/lyctpu/lyctpu.github.io/assets/114549805/7e32fa14-919e-4383-96d6-85a393adcfa9" width="600" height="300" alt=Golang"></p>
 
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" type="text/css" href="https://nst1.gismeteo.ru/assets/flat-ui/legacy/css/informer.min.css">
