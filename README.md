@@ -1,6 +1,7 @@
 <!--<script src="//code.jivo.ru/widget/5iINSzqXy6" async></script>-->
 
-<p><img src="https://github.com/lyctpu/lyctpu.github.io/blob/main/4482751.png" width="600" height="300" alt=Golang"></p>
+![4482751](https://github.com/lyctpu/lyctpu.github.io/assets/114549805/e5ab5d38-7eda-43d2-95aa-c8a26ae311ed)
+
 
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" type="text/css" href="https://nst1.gismeteo.ru/assets/flat-ui/legacy/css/informer.min.css">
