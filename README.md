@@ -31,17 +31,15 @@
 
 ## <a href="#Кодинг">Кодинг</a>  |  <a href="#ЕГЭ">ЕГЭ</a>  |  <a href="#Олимпиады">Олимпиады</a>  | <a href="#Notebooks">Notebooks</a>  |   <a href="#Нейросети, ЕГЭ">Нейросети</a>  |   <a href="#БД">БД</a>  |   <a href="#Логика">Логика</a>  |   <a href="#LaTex">LaTex</a>   |   <a href="#Web">Web</a> |   <a href="#Схемы">Схемы</a>  |   <a href="#Роботех">Роботех</a>
 
-## <a href="http://clck.ru/326VLa/" target="_blank">ЖУРНАЛ (google tab)</a>
-
-## [ЕГЭ МЕТОДЫ РЕШЕНИЯ](https://drive.google.com/file/d/1eA9QhlndgetOr00HGOtXRFzQG3WIEe1r/view?usp=drive_link)
-
-## [ЕГЭ РЕШЕБНИК](https://drive.google.com/file/d/1lg98A8qpiN92K3tp3pvtn2pZmW7p7CB2/view?usp=sharing)
-
 ## [Универсальный тест](https://forms.gle/mYJ4X1Acsy4v3j27A)
 
-## <a href="https://github.com/lyctpu/help" target="_blank">Репозиторий HELP</a>
+## <a href="http://clck.ru/326VLa/" target="_blank">ЖУРНАЛ (google tab)</a>
 
-## [Реп сайта](https://github.com/lyctpu/lyctpu.github.io)
+
+
+
+
+# <a href="https://github.com/lyctpu/help" target="_blank">Репозиторий HELP</a> |  [Репозиторий сайта](https://github.com/lyctpu/lyctpu.github.io)
     
 ## [Задание к тесту](task.md)
 
@@ -79,7 +77,7 @@
 
 [Яндекс.Практикум](https://practicum.yandex.ru/catalog/programming/free/)
 
-[ **НОВОЕ** Яндекс учебники](https://academy.yandex.ru/handbook)
+[Яндекс учебники](https://academy.yandex.ru/handbook)
 
 [Сириус Курсы](https://edu.sirius.online/)
 
@@ -130,47 +128,35 @@
 
 ### ЕГЭ
 
-[ЗАДАНИЕ. Задачи](https://github.com/lyctpu/ege/raw/main/%D0%97%D0%B0%D0%B3%D0%B0%D0%B4%D0%BA%D0%B0.exe)
+### [Тренажер КЕГЭ](https://kompege.ru/)
 
-[ЕГЭ компоненты кода](https://deepnote.com/@lyctpu/ege-b9a3f885-0118-491c-8ce3-80eabda91810)
+#### [ЕГЭ МЕТОДЫ РЕШЕНИЯ](https://drive.google.com/file/d/1eA9QhlndgetOr00HGOtXRFzQG3WIEe1r/view?usp=drive_link)
 
-[Все конструкции](https://github.com/lyctpu/ege/blob/main/%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0.md)
+#### [ЕГЭ РЕШЕБНИК](https://drive.google.com/file/d/1lg98A8qpiN92K3tp3pvtn2pZmW7p7CB2/view?usp=sharing)
 
-[Банк заданий](http://ege.fipi.ru/os11/xmodules/qprint/index.php?proj_guid=B9ACA5BBB2E19E434CD6BEC25284C67F&theme_guid=9009f55c9341e311beed001fc68344c9&md=qprint&groupno=0)
+[ЕГЭ :: компоненты кода](https://deepnote.com/@lyctpu/ege-b9a3f885-0118-491c-8ce3-80eabda91810) | [Все конструкции](https://github.com/lyctpu/ege/blob/main/%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0.md)
 
-[реп ЕГЭ](https://github.com/lyctpu/ege)
+[Реп ЕГЭ](https://github.com/lyctpu/ege)
 
-[банк](https://fipi.ru/ege/otkrytyy-bank-zadaniy-ege#!/tab/173765699-5)
-
-[Досрочное ЕГЭ 2022](https://100ballnik.com/%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82-%D1%81-%D0%B4%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B5%D0%B3%D1%8D-2022-%D0%BF%D0%BE-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82/?ysclid=l9i2tuwgl4196137770)
-
-[Досрок 2022 Реш](https://github.com/lyctpu/ege/blob/main/2022real/1v.py)
+[Досрочное ЕГЭ 2022](https://100ballnik.com/%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82-%D1%81-%D0%B4%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B5%D0%B3%D1%8D-2022-%D0%BF%D0%BE-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82/?ysclid=l9i2tuwgl4196137770) | [Досрок 2022 Реш](https://github.com/lyctpu/ege/blob/main/2022real/1v.py)
 
 [ЕГЭ Демо2022 реш](https://deepnote.com/publish/90a94397-bea5-4693-ad44-558a0fd0a5b2)
 
-[ЕГЭ Демо2023 реш](https://deepnote.com/publish/e70e0880-8033-40a8-abb8-4157d3d12909)
+[ЕГЭ Демо2023 реш](https://deepnote.com/publish/e70e0880-8033-40a8-abb8-4157d3d12909) | [ЕГЭ Демо2023 ким](https://github.com/lyctpu/ege/blob/main/2023demo/%D0%98%D0%9D%D0%A4-11%20%D0%95%D0%93%D0%AD%202023_%D0%94%D0%95%D0%9C%D0%9E.pdf)
 
-[ЕГЭ Демо2022 ким](https://github.com/lyctpu/ege/blob/main/2022demo/%D0%98%D0%9D%D0%A4-11%20%D0%95%D0%93%D0%AD%202022_%D0%94%D0%95%D0%9C%D0%9E.pdf)
+![Урок на youtube](youtube16.png) [Алексей Кабанов](https://www.youtube.com/@kompege)
 
-[ЕГЭ Демо2023 ким](https://github.com/lyctpu/ege/blob/main/2023demo/%D0%98%D0%9D%D0%A4-11%20%D0%95%D0%93%D0%AD%202023_%D0%94%D0%95%D0%9C%D0%9E.pdf)
+![Урок на youtube](youtube16.png) [Информатик Родя](https://www.youtube.com/@rodya_inf)
 
-[Сайт Полякова](https://kpolyakov.spb.ru/school/ege/generate.htm)
-
-[Тренажер КЕГЭ](https://kompege.ru/)
-
-[Тренажер КЕГЭ 2](https://4ege.ru/trening-informatika/)
-
-[СДАТЬ ЕГЭ](https://foxford.ru/catalog/trainings/informatika/ege)
-
-[РЕШУ ЕГЭ](https://inf-ege.sdamgia.ru/)
-
-![Урок на youtube](youtube16.png) [Канал Ивана Викторовича](https://www.youtube.com/c/IoanPlugar_inf)
+![Урок на youtube](youtube16.png) [Иван Викторович](https://www.youtube.com/c/IoanPlugar_inf)
 
 ![Урок на youtube](youtube16.png) [Все программирование для ЕГЭ 2ч18м](https://www.youtube.com/watch?v=iTFwN9ckS9k)
 
 ![Урок на youtube](youtube16.png) [Весь python за час](https://www.youtube.com/watch?v=-v5m3XnVpC8)
 
-[Подготовка](https://docs.google.com/spreadsheets/d/1uFQsXgk8wyZK4Q3axKS3t7WFXNkuiTOIcmE72mMsprw/edit?usp=drivesdk)
+[Сайт Полякова](https://kpolyakov.spb.ru/school/ege/generate.htm)
+
+[Таблицы истинности](https://docs.google.com/spreadsheets/d/1uFQsXgk8wyZK4Q3axKS3t7WFXNkuiTOIcmE72mMsprw/edit?usp=drivesdk)
 
 ------
 
@@ -227,6 +213,8 @@
 <p><a name="Нейросети"></a></p>
 
 ### Нейросети
+
+[Stepik::Машинное обучение](https://stepik.org/course/125587/syllabus)
 
 ![Урок на youtube](youtube16.png) [Эксперимент в Нейросимуляторе](https://www.youtube.com/watch?v=n9_gP_ZoviA)
 
