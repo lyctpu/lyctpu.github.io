@@ -385,8 +385,9 @@
 
 --------
 
-[=](https://docs.google.com/spreadsheets/d/11P24GWyXc2Yg8IJyaDAjmc9z3Sf_TPSBK9SAu4sm6c8/edit#gid=957019618)
-[calendar2023](https://user-images.githubusercontent.com/114549805/209599025-cf1da089-e09c-4a15-bd23-4f3ddaa407ae.png)
+[calendar2023-2024](https://github.com/lyctpu/lyctpu.github.io/assets/114549805/937587a2-afed-4e90-a399-1d40fd2010f6)
 
+
+написать админу paul.sver@gmail.com
 
 @lyctpu 2023г.
