@@ -23,7 +23,7 @@ filename: works.md
         var formData = new FormData($(this)[0]);
 
         $.ajax({
-            url: 'http://cw63026.tmweb.ru/file.php',
+            url: 'https://cw63026.tmweb.ru/file.php',
             type: "POST",
             data: formData,
             async: false,
