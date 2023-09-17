@@ -10,7 +10,7 @@ filename: works.md
 
 # WORKS & TASKS & UPLOAD
 
-<iframe src="http://cw63026.tmweb.ru/" height="300px" width="700px"></iframe>
+<iframe src="http://cw63026.tmweb.ru/" height="700px" width="1500px"></iframe>
 
 ## Works
 
