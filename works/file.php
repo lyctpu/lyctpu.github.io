@@ -6,7 +6,7 @@ $uploadfile = $uploaddir . basename($_FILES['userfile']['name']);
 if (move_uploaded_file($_FILES['userfile']['tmp_name'], $uploadfile)) {
     $out = "Файл корректен и был успешно загружен.\n";
 } else {
-    $out = "Возможная атака с помощью файловой загрузки!\n";
+    $out = $uploadfile;
 }
 
 echo $out;
