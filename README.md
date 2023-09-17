@@ -35,13 +35,9 @@
 
 ## <a href="http://clck.ru/326VLa/" target="_blank">ЖУРНАЛ (google tab)</a>
 
-
-
-
-
-# <a href="https://github.com/lyctpu/help" target="_blank">Репозиторий HELP</a> |  [Репозиторий сайта](https://github.com/lyctpu/lyctpu.github.io)
+### <a href="https://github.com/lyctpu/help" target="_blank">Репозиторий HELP</a> |  [Репозиторий сайта](https://github.com/lyctpu/lyctpu.github.io)
     
-## [Задание к тесту](task.md)
+### [Задание к тесту](task.md)
 
 ---------
 
