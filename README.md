@@ -140,6 +140,8 @@
 
 [ЕГЭ Демо2023 реш](https://deepnote.com/publish/e70e0880-8033-40a8-abb8-4157d3d12909) | [ЕГЭ Демо2023 ким](https://github.com/lyctpu/ege/blob/main/2023demo/%D0%98%D0%9D%D0%A4-11%20%D0%95%D0%93%D0%AD%202023_%D0%94%D0%95%D0%9C%D0%9E.pdf)
 
+![Урок на youtube](youtube16.png) [Разбор Демо 2024 Шастин](https://www.youtube.com/watch?v=IJem5v-f894&t=658s)
+
 ![Урок на youtube](youtube16.png) [Алексей Кабанов](https://www.youtube.com/@kompege)
 
 ![Урок на youtube](youtube16.png) [Информатик Родя](https://www.youtube.com/@rodya_inf)
