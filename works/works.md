@@ -10,6 +10,14 @@ filename: works.md
 
 # WORKS & TASKS
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+
+<form name="uploader" enctype="multipart/form-data" method="POST">
+        Отправить этот файл: <input name="userfile" type="file" />
+        <button type="submit" name="submit">Загрузить</button>
+</form>
+
+
 ## Works
 
 
