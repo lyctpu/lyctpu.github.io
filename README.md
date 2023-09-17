@@ -1,6 +1,7 @@
 <!--<script src="//code.jivo.ru/widget/5iINSzqXy6" async></script>-->
 
-![4482751](https://github.com/lyctpu/lyctpu.github.io/assets/114549805/e5ab5d38-7eda-43d2-95aa-c8a26ae311ed)
+![popul](https://github.com/lyctpu/lyctpu.github.io/assets/114549805/afb47d30-1406-4dc3-a690-204efb7984a5)
+
 
 
 <link rel="stylesheet" href="style.css">
