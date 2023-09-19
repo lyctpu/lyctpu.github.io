@@ -33,7 +33,7 @@
 
 ## [Универсальный тест](https://forms.gle/mYJ4X1Acsy4v3j27A)
 
-## [Послать скриншот в GH](https://github.com/lyctpu/lyctpu.github.io/issues)
+## [Послать файл в GH](https://github.com/lyctpu/lyctpu.github.io/issues)
 
 ## <a href="http://clck.ru/326VLa/" target="_blank">ЖУРНАЛ (google tab)</a>
 
