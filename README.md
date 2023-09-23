@@ -373,6 +373,11 @@
 
 --------
 
+#### Testing
+
+[Учебник](mentorpiece.ru)
+[Eduson Academy](https://eduson.academy/)
+
 [calendar2023-2024](https://github.com/lyctpu/lyctpu.github.io/assets/114549805/937587a2-afed-4e90-a399-1d40fd2010f6)
 
 
