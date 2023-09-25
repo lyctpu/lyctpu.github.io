@@ -228,6 +228,8 @@
 
 ### БД
 
+[SQL ACADEMY](https://sql-academy.org/ru/guide)
+
 [Технология создания sqlite в python](https://pythonru.com/osnovy/sqlite-v-python)
 
 [sql-команды](https://tproger.ru/translations/sql-recap/)
