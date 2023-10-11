@@ -35,7 +35,7 @@
 
 ## [Послать файл в GH](https://github.com/lyctpu/lyctpu.github.io/issues)
 
-## <a href="http://clck.ru/326VLa/" target="_blank">ЖУРНАЛ (google tab)</a>
+## <a href="https://docs.google.com/spreadsheets/d/1qSWdndCqaR5FNxO7J65FsixtgsY8GAQrEmCF48ALSj4/edit?usp=drivesdk" target="_blank">ЖУРНАЛ (google tab)</a>
 
 ### <a href="https://github.com/lyctpu/help" target="_blank">Репозиторий HELP</a> |  [Репозиторий сайта](https://github.com/lyctpu/lyctpu.github.io)
     
