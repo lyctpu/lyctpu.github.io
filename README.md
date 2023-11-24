@@ -31,6 +31,8 @@
 
 ## <a href="#Кодинг">Кодинг</a>  |  <a href="#ЕГЭ">ЕГЭ</a>  |  <a href="#Олимпиады">Олимпиады</a>  | <a href="#Notebooks">Notebooks</a>  |   <a href="#Нейросети, ЕГЭ">Нейросети</a>  |   <a href="#БД">БД</a>  |   <a href="#Логика">Логика</a>  |   <a href="#LaTex">LaTex</a>   |   <a href="#Web">Web</a> |   <a href="#Схемы">Схемы</a>  |   <a href="#Роботех">Роботех</a>
 
+## [ОЛИМПИАДА](https://me2023to.contest.codeforces.com)
+
 ## [Универсальный тест](https://forms.gle/mYJ4X1Acsy4v3j27A)
 
 ## [Послать файл в GH](https://github.com/lyctpu/lyctpu.github.io/issues)
