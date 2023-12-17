@@ -31,9 +31,7 @@
 
 ## <a href="#Кодинг">Кодинг</a>  |  <a href="#ЕГЭ">ЕГЭ</a>  |  <a href="#Олимпиады">Олимпиады</a>  | <a href="#Notebooks">Notebooks</a>  |   <a href="#Нейросети, ЕГЭ">Нейросети</a>  |   <a href="#БД">БД</a>  |   <a href="#Логика">Логика</a>  |   <a href="#LaTex">LaTex</a>   |   <a href="#Web">Web</a> |   <a href="#Схемы">Схемы</a>  |   <a href="#Роботех">Роботех</a>
 
-## [ОЛИМПИАДА ](https://me2023to.contest.codeforces.com)
-
-## [ОЛИМПИАДА РАЗБОР](https://disk.yandex.ru/i/pMx8WUi1jUAvEw)
+## [РАБОТЫ И РЕСУРСЫ](https://disk.yandex.ru/d/68H3nnHHtkA_Nw)
 
 ## [Универсальный тест](https://forms.gle/mYJ4X1Acsy4v3j27A)
 
@@ -101,6 +99,8 @@
 
 [Файл xls для задачи энергосбыта](https://github.com/lyctpu/help/blob/main/Исполнение_Томскэнергосбыт%20в%20ЕИС_.xls)
 
+[Учебник Босовой](https://school24.yaguo.ru/newsite/wp-content/uploads/2019/10/informatika_10kl_bu_bosovall.pdf)
+
 -----------
 
 <p><a name="Кодинг"></a></p>
@@ -167,13 +167,15 @@
 
 ### Олимпиады
 
-<a href="./olymp">Инструкция на пробник</a>
+[ОЛИМПИАДА ВСОШ 2023 ](https://me2023to.contest.codeforces.com)
+
+[ОЛИМПИАДА ВСОШ 2023 РАЗБОР](https://disk.yandex.ru/i/pMx8WUi1jUAvEw)
 
 [ВСОШ Задачи](https://sochisirius.ru/uploads/2022/11/vos_school_iikt_9-11_4_tasks.pdf)
 
 [ВСОШ Ответы](https://sochisirius.ru/uploads/2022/11/vos_school_iikt_9-11_4_sol.pdf)
 
-[Разбор](https://youtu.be/80rvOPYqhUE)
+[Разбор для подготовки](https://youtu.be/80rvOPYqhUE)
 
 ----------------
 
@@ -225,6 +227,8 @@
 
 [Нейросимулятор](https://www.lbai.ru/#;show;install)
 
+[Dream.ai генератор изображений](Dream.ai)
+
 -----
 
 <p><a name="БД"></a></p>
@@ -267,7 +271,9 @@
 
 [Логика в Excel](https://urok.1sept.ru/articles/519412?ysclid=l9987yvlcg727714146)
 
-![Урок на youtube](youtube16.png) [О LaTex](https://www.youtube.com/watch?v=t6Kyyattm_o)
+![Урок на youtube](youtube16.png)[Законы логики](https://youtube.com/playlist?list=PLH3y3SWteZd2FFVs-dHTZucYi7xyRWODq&si=7WU5ZUKTWmZRXL7L)
+
+![Урок на youtube](youtube16.png)[Ещё одго упрощение](https://www.youtube.com/watch?v=kHXmI8JzZmY)
 
 --------------
 
@@ -275,6 +281,7 @@
 
 ### LaTex ![LaTex](https://user-images.githubusercontent.com/114549805/199188610-8124a51c-7464-461f-acf3-1ae7ddae731e.png)
 
+![Урок на youtube](youtube16.png) [О LaTex](https://www.youtube.com/watch?v=t6Kyyattm_o)
 
 [Запись в Latex](http://fkn.ktu10.com/?q=node/8716&ysclid=l9qf3ml74m339828792)
 
