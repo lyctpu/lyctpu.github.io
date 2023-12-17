@@ -1,15 +1,14 @@
 <!--<script src="//code.jivo.ru/widget/5iINSzqXy6" async></script>-->
 
-<p class="aligncenter">
-    <img src="dream_TradingCard.jpg" width="300" height="500">
-</p>
-
 <style>
 .aligncenter {
     text-align: center;
 }
 </style>
 
+<p class="aligncenter">
+    <img src="dream_TradingCard.jpg" width="300" height="500">
+</p>
 
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" type="text/css" href="https://nst1.gismeteo.ru/assets/flat-ui/legacy/css/informer.min.css">
