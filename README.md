@@ -1,6 +1,6 @@
 <!--<script src="//code.jivo.ru/widget/5iINSzqXy6" async></script>-->
 
-<p><img src="https://github.com/lyctpu/lyctpu.github.io/assets/114549805/38e089d5-7b77-444d-a874-1ae83a24accd" width="300" alt=dream.ai"></p>
+<p><img src="dream_TradingCard.jpg" width="300" alt=dream.ai"></p>
 
 
 
