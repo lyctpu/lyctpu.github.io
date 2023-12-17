@@ -1,9 +1,14 @@
 <!--<script src="//code.jivo.ru/widget/5iINSzqXy6" async></script>-->
 
-<img src="dream_TradingCard.jpg" width="300" height="500">
+<p class="aligncenter">
+    <img src="dream_TradingCard.jpg" width="300" height="500">
+</p>
 
-
-
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
 
 
 <link rel="stylesheet" href="style.css">
