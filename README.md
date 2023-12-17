@@ -1,6 +1,6 @@
 <!--<script src="//code.jivo.ru/widget/5iINSzqXy6" async></script>-->
 
-<img src="dream_TradingCard.jpg" width="100" height="111">
+<img src="dream_TradingCard.jpg" width="500" height="300">
 
 
 
