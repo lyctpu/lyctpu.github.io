@@ -46,6 +46,8 @@
 
 ### РЕСУРСЫ
 
+[Учебник Босовой](https://school24.yaguo.ru/newsite/wp-content/uploads/2019/10/informatika_10kl_bu_bosovall.pdf)
+
 [МОДЕЛИРОВАНИЕ](https://xn----7sbbfb7a7aej.xn--p1ai/informatika_11/informatika_materialy_zanytii_11_17.html)
 
 [MidJourney](https://lifehacker.ru/kak-polzovatsya-midjourney/)
@@ -99,8 +101,6 @@
 
 [Файл xls для задачи энергосбыта](https://github.com/lyctpu/help/blob/main/Исполнение_Томскэнергосбыт%20в%20ЕИС_.xls)
 
-[Учебник Босовой](https://school24.yaguo.ru/newsite/wp-content/uploads/2019/10/informatika_10kl_bu_bosovall.pdf)
-
 -----------
 
 <p><a name="Кодинг"></a></p>
@@ -123,6 +123,14 @@
 
 [Видео в Py](https://youtu.be/WliniT0weJo)
 
+[ООП в Python](https://python.ivan-shamaev.ru/classes-python-3-methods-oop-examples/)
+
+[ООП в Python 2](https://younglinux.info/oopython/oop)
+
+![Урок на youtube](youtube16.png) [Большой код ООП](https://www.youtube.com/watch?v=ury9pdPXa6s&list=PLA0M1Bcd0w8zPwP7t-FgwONhZOHt9rz9E&index=11)
+
+
+
 -------
 
 <p><a name="ЕГЭ"></a></p>
@@ -134,6 +142,8 @@
 #### [ЕГЭ МЕТОДЫ РЕШЕНИЯ](https://drive.google.com/file/d/1eA9QhlndgetOr00HGOtXRFzQG3WIEe1r/view?usp=drive_link)
 
 #### [ЕГЭ РЕШЕБНИК](https://drive.google.com/file/d/1lg98A8qpiN92K3tp3pvtn2pZmW7p7CB2/view?usp=sharing)
+
+##### [Разбор Демо 2024 от Джобса в PDF](https://4ege.ru/index.php?do=download&id=22776)
 
 <a href="https://deepnote.com/@lyctpu/ege-b9a3f885-0118-491c-8ce3-80eabda91810">ЕГЭ:: Компоненты кода </a>  | <a href="https://github.com/lyctpu/ege/blob/main/%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0.md">Все конструкции</a>
 
@@ -271,9 +281,9 @@
 
 [Логика в Excel](https://urok.1sept.ru/articles/519412?ysclid=l9987yvlcg727714146)
 
-![Урок на youtube](youtube16.png)[Законы логики](https://youtube.com/playlist?list=PLH3y3SWteZd2FFVs-dHTZucYi7xyRWODq&si=7WU5ZUKTWmZRXL7L)
+![Урок на youtube](youtube16.png) [Законы логики](https://youtube.com/playlist?list=PLH3y3SWteZd2FFVs-dHTZucYi7xyRWODq&si=7WU5ZUKTWmZRXL7L)
 
-![Урок на youtube](youtube16.png)[Ещё одго упрощение](https://www.youtube.com/watch?v=kHXmI8JzZmY)
+![Урок на youtube](youtube16.png) [Ещё одго упрощение](https://www.youtube.com/watch?v=kHXmI8JzZmY)
 
 --------------
 
