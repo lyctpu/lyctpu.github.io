@@ -1,6 +1,7 @@
 <!--<script src="//code.jivo.ru/widget/5iINSzqXy6" async></script>-->
 
-![popul](https://github.com/lyctpu/lyctpu.github.io/assets/114549805/afb47d30-1406-4dc3-a690-204efb7984a5)
+
+![dream_TradingCard](https://github.com/lyctpu/lyctpu.github.io/assets/114549805/38e089d5-7b77-444d-a874-1ae83a24accd)
 
 
 
