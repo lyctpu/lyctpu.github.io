@@ -404,6 +404,8 @@
 
 написать админу paul.sver@gmail.com
 
-@lyctpu 2023г.
+@lyctpu 2024г.
+
+wv30und1g7qzvat0
 
 ![dream_TradingCard](https://github.com/lyctpu/lyctpu.github.io/assets/114549805/38e089d5-7b77-444d-a874-1ae83a24accd)
