@@ -19,7 +19,7 @@
 
 <div class="nav">
     <p class="aligncenter">
-        <a href="https://portal.tpu.ru/lyceum"><img src="95.jpeg"></a></p>
+        <a href="https://portal.tpu.ru/lyceum"><img src="c.jpeg"></a></p>
 </div>    
     
 
