@@ -29,7 +29,7 @@
 
 ## [РАБОТЫ И РЕСУРСЫ](https://disk.yandex.ru/d/68H3nnHHtkA_Nw)
 
-## [КЛИЕНТ МОНИТОРИНГА](https://disk.yandex.ru/d/kTMVj2WqkPCfVA)
+## [МОНИТОРИНГ](https://mpnitor-paulsv.amvera.io/)
 
 ## <a href="https://docs.google.com/spreadsheets/d/1qSWdndCqaR5FNxO7J65FsixtgsY8GAQrEmCF48ALSj4/edit?usp=drivesdk" target="_blank">ЖУРНАЛ (google tab)</a>
 
@@ -408,4 +408,3 @@
 
 wv30und1g7qzvat0
 
-![dream_TradingCard](https://github.com/lyctpu/lyctpu.github.io/assets/114549805/38e089d5-7b77-444d-a874-1ae83a24accd)
